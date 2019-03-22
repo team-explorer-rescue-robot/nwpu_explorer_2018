@@ -6,7 +6,15 @@ NWPU Explorer Code Repository — 西北工业大学舞蹈机器人基地救援�
 - 电子组：梁成栋、谢凯、~~丁晓斌~~
 - 机械组：闫雨晨
 
- 
+团队-[@Team-Explorer-Rescue-Robot](https://github.com/team-explorer-rescue-robot)
+
+
+## 视频展示
+
+- [西北工业大学舞蹈机器人基地Explorer救援组项目展示](https://v.youku.com/v_show/id_XNDAwNTg4MTk3Mg==.html?spm=a1z3jc.11711052.0.0&isextonly=1)
+- [自主避障控制算法仿真及实物展示
+](https://v.youku.com/v_show/id_XNDAwNTg3NzAxNg==.html?spm=a2h0j.11185381.listitem_page1.5!3~A)
+
 
 ## explorer_small 编译时的依赖包说明目录
 
